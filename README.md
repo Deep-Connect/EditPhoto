@@ -7,12 +7,6 @@ android library EditPhoto. Image Editor for Android
 
 [<img src="/store/Gif.gif">]
 
-# Project
-
-Icon | Name | Link Google Play
------------- | ------------ | -------------
-[<img src="/store/ic_launcher.png">](https://play.google.com/store/apps/details?id=com.hoanganhtuan95ptit.camdoc_productivity) | [CamDoc - Document Scanner, PDF Scanner App 2018](https://play.google.com/store/apps/details?id=com.hoanganhtuan95ptit.camdoc_productivity) | [<img src="/store/Store.png">](https://play.google.com/store/apps/details?id=com.hoanganhtuan95ptit.camdoc_productivity)
-
 
 # ️Features 
 * Crop with 
